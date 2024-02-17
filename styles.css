@@ -100,7 +100,7 @@ td {
 .row:last-child {
     border-bottom: none;
 }
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     body {
         display: flex;
         flex-direction: column;
