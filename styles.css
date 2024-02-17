@@ -1,0 +1,110 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+body {
+    background-color: rgb(253, 235, 214);
+    font-family: "Young Serif", serif;
+    font-style: normal;
+      
+      
+}
+.one > img {
+    width: 100%;
+    border-radius: 5px;
+
+}
+.container {
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 20px;
+    margin: 5% 25% 5% 25% ;
+    padding: 10px;
+
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    padding: 10px;
+    margin: 10px;
+    
+}
+.two {
+    background-color: hwb(300 95% 1%);
+    border-radius: 10px;
+    
+}
+h1 {
+    font-weight: 500 !important;
+    font-size: 35px;
+}
+h2 {
+    font-weight: 300 !important;
+    font-size: 20px;
+    color:hsl(14, 45%, 36%);
+    margin-bottom: 0px;
+
+}
+p, li, table {
+    
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 14px;
+    }
+li {
+    padding-left: 10px;
+    margin: 1%;
+    color: hsl(14, 45%, 36%);
+    
+    
+}
+.preparation {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600 !important;
+    font-style: normal;
+    font-size: 16px;
+    color: hsl(332, 51%, 32%);
+    padding-left: 10px;
+    
+}
+table{
+    border-spacing: 20px;
+    border-collapse: collapse;
+    
+}
+
+.Recipe {
+    margin-bottom: 0px;
+}
+.subtitle {
+    font-weight: 600 !important;
+    color:black;
+}
+.content {
+    color: black;
+}
+.prep {
+    color: hsl(332, 51%, 32%);
+}
+.col-two {
+    color: hsl(14, 45%, 36%);
+    font-weight: 600;
+}
+td {
+    padding: 10px;
+}
+.row {
+    border-bottom: 1px solid rgb(206, 202, 202);
+}
+.row:last-child {
+    border-bottom: none;
+}
+@media (max-width: 375px) {
+    .container {
+        background-color:hsl(0, 0%, 100%);
+        border-radius: 20px;
+        padding: 10px;
+        width: 100%;
+}
+}
