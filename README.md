@@ -32,7 +32,7 @@ I learned how to use HTML and CSS to make responsive and visually appealing webs
 
 ## Author
 
-- Email - [Wondwosen Abera](4wendelib@gmail.com)
+- Email - [Wondwosen Abera](wondwosenabe93@gmail.com)
 - Frontend Mentor - [@Wondwosen-Abera](https://www.frontendmentor.io/profile/Wondwosen-Abera)
 
 
